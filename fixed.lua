@@ -1,7 +1,8 @@
 -------------------------------------------------
 -- RAYFIELD LOAD
 -------------------------------------------------
-local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/TiaN1um/TianHub/main/fixed.lua"))()
+local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
+
 
 
 -------------------------------------------------
